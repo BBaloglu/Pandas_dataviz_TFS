@@ -1,0 +1,3 @@
+contig_id	contig_srt	contig_end	region_id	attributes	gc_count	overlaps	fwd_e2e	rev_e2e	total_reads	fwd_reads	rev_reads	cov20x	cov100x	cov500x
+TNX1800b2	2	210963	TNX1800b2:2-210963	.	70214	27851	0	0	27851	13850	14001	886	596	283
+KY349117	2	212811	KY349117:2-212811	.	70383	31197	0	0	31197	14100	17097	901	612	308
